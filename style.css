@@ -2,7 +2,7 @@
     text-align: center;
 }
 body{
-    background-color:#6495ED;
+    background-color:#191970;
 }
 /* usa esse para colocar comentario no css*/
 h1{
@@ -11,9 +11,9 @@ h1{
     font-size:30px;
 }
 .texto{
-   color: #008B8B;
+   color: whitesmoke;
     text-align: left;
 }
 em strong {
-    color: #00CED1;
+    color: grey;
 }
