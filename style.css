@@ -1,0 +1,19 @@
+#titulo {
+    text-align: center;
+}
+body{
+    background-color:#6495ED;
+}
+/* usa esse para colocar comentario no css*/
+h1{
+    color:white;
+    text-align:right;
+    font-size:30px;
+}
+.texto{
+   color: #008B8B;
+    text-align: left;
+}
+em strong {
+    color: #00CED1;
+}
